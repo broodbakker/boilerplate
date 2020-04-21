@@ -9,6 +9,9 @@ export const Main = () => {
       <Button bg="yellow" p={3} color="blue" borderRadius={2}>
         hey
       </Button>
+      <Button bg="yellow" p={3} color="blue" borderRadius={2}>
+        heyhet
+      </Button>
     </div>
   );
 };
