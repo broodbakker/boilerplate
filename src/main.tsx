@@ -7,10 +7,7 @@ export const Main = () => {
   return (
     <div>
       <Button bg="yellow" p={3} color="blue" borderRadius={2}>
-        hey
-      </Button>
-      <Button bg="yellow" p={3} color="blue" borderRadius={2}>
-        heyhet
+        hey >>>>>>> old-state
       </Button>
     </div>
   );
